@@ -18,10 +18,10 @@ function Resume()
             <p> +91 8865093020</p>
             <p> anushkaarora0333@gmail.com</p>
             <p>
-                 <a href="https://www.linkedin.com/in/anushka-arora-0b45b7325" target="_blank">LinkedIn</a>
+                 <a href="https://www.linkedin.com/in/anushka-arora-0b45b7325" target="_blank" rel="noreferrer">LinkedIn</a>
             </p>
             <p>
-                 <a href="https://github.com/anushkaarora0333-glitch" target="_blank">GitHub</a>
+                 <a href="https://github.com/anushkaarora0333-glitch" target="_blank" rel="noreferrer">GitHub</a>
             </p>
             <p> Agra, Uttar Pradesh</p>
         </div>
