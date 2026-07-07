@@ -110,7 +110,7 @@ function Resume()
 
     <div className="edu-box">
         <h3>Visharad (Hindustani Classical Vocal Music)</h3>
-        <span>Prachin Kala Kendra, Chandigarh</span>
+        <span>Pracheen Kala Kendra, Chandigarh</span>
     </div>
 
     <div className="edu-box">
