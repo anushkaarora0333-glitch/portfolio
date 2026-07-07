@@ -27,7 +27,7 @@ function Resume()
         </div>
 
        <div className="section">
-            <h2>Languages</h2>
+            <h2>Languages Spoken</h2>
             <ul>
                 <li>Hindi — Native</li>
                 <li>English — Fluent</li>
@@ -105,6 +105,19 @@ function Resume()
         
         </div>
     </div>
+        <div className="right-section">
+    <h2>Certifications</h2>
+
+    <div className="edu-box">
+        <h3>Visharad (Hindustani Classical Vocal Music)</h3>
+        <span>Prachin Kala Kendra, Chandigarh</span>
+    </div>
+
+    <div className="edu-box">
+        <h3>Senior Diploma (Hindustani Classical Vocal Music)</h3>
+        <span>Prayag Sangeet Samiti, Prayagraj</span>
+    </div>
+</div>
       <div className="right-section">
             <h2>Extracurriculars</h2>
             <ul className="achievement-list">
