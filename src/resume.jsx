@@ -31,7 +31,7 @@ function Resume()
             <ul>
                 <li>Hindi — Native</li>
                 <li>English — Fluent</li>
-                <li>German — Certificate & Diploma coursework (Diploma result awaited)</li>
+                <li>German — Certificate & Diploma</li>
             </ul>
         </div>
 
